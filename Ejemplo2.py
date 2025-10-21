@@ -74,7 +74,7 @@ summary_md = Markdown(f"""
 
 console.print(
     Panel(summary_md, 
-          title="[bold magenta]SResumen General[/bold magenta]",
+          title="[bold magenta]Resumen General[/bold magenta]",
           border_style="bright_magenta")
 )
 

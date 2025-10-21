@@ -11,3 +11,5 @@ Integrantes:
 - Andrea Melissa Torres Batres
 - Marielena Velásquez Escobar
 - Ariel Esau Yanes Quintanilla
+
+Link diapositivas: https://www.canva.com/design/DAG2KzVSQ5g/ENiPuT0OTEWTYoGKas9S1Q/edit?utm_content=DAG2KzVSQ5g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 

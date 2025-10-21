@@ -92,7 +92,7 @@ console.print(table_region)
 # Crear tabla de subregiones más comunes
 table_sub = Table(title="📌 Subregiones Más Frecuentes")
 table_sub.add_column("Subregion", justify="left", style="green")
-table_sub.add_column("Countries", justify="right", style="yellow")
+table_sub.add_column("Países", justify="right", style="yellow")
 
 for subregion, count in top_subregions.items():
     table_sub.add_row(subregion, str(count))

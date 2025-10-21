@@ -1,0 +1,17 @@
+Proceso de instalación de la librería
+Para poder instalarlo debemos tener una versión de Python de 3.13.7 o superior 
+En la terminal de Visual Studio Code ejecuta en comando pip install rich
+
+Librerías utilizadas
+- rich
+- pandas (segundo ejemplo)
+
+Funciones importadas
+- Console
+- Table
+- Panel
+- Progress
+- BarColumn
+- TextColumn
+- TimeRemainingColumn
+- Markdown
